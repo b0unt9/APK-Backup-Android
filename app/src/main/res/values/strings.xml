@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APK Backup</string>
+    <string name="action_settings">설정</string>
+
+    <string name="tab_title_backup">백업</string>
+    <string name="tab_title_restore">복원</string>
+
+    <string name="hint_backup_search">설치된 어플리케이션 검색&#8230;</string>
+    <string name="hint_restore_search">백업된 APK 검색&#8230;</string>
+
+    <string name="about_text">어플리케이션을 쉽고 간편하게 백업/복원/추출할 수 있게 해주는 어플리케이션입니다!</string>
+
+    <string name="dialog_title_permission">권한이 필요합니다!</string>
+    <string name="dialog_content_permission">APK Backup을 실행하기 위해서는 권한이 필요합니다.\n권한을 설정을 가시겠습니까?</string>
+
+</resources>
