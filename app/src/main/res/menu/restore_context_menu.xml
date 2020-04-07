@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+
+    <item android:id="@+id/action_restore"
+        android:title="복원"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_install"
+        app:showAsAction="always"/>
+
+
+    <item android:id="@+id/action_check_all"
+        android:title="전체선택"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_check_all"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_delete"
+        android:title="백업APK파일 삭제"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="ifRoom" />
+
+</menu>
